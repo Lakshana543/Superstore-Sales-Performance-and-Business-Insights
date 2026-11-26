@@ -82,7 +82,7 @@ The dashboard helps identify:
 
 ### Customer Insight Analysis
 
-![Regional Analysis](Images/03_Regional_Analysis.png)
+![Customer Insights](Images/03_Customer_Insights.png)
 
 ---
 

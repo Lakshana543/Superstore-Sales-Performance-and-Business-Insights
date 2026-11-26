@@ -45,6 +45,30 @@ Examines sales and profit distribution across different geographical regions to 
 
 Includes a custom tooltip page to provide additional contextual information when hovering over selected dashboard visuals.
 
+## Results and Business Insights
+
+### Overall Sales Performance
+- Generated total sales of 2.30M and total profit of 286.40K.
+- Achieved a profit margin of 12.47%.
+- Recorded approximately 5K total orders.
+- Achieved approximately 115% of the 2M sales target.
+- Identified 2017 as the highest-performing year in the displayed yearly comparison.
+
+### Regional Performance
+- West region contributed the highest sales of 725.46K (31.58%).
+- East region followed with 678.78K (29.55%).
+- South region recorded the lowest sales of 391.72K (17.05%).
+
+### Product Performance
+- Identified top-performing products based on sales contribution.
+- Observed a peak in monthly sales around October 2016.
+- East recorded the highest regional sales in the product analysis view.
+
+### Customer Insights
+- Analyzed customer-level purchasing patterns and sales history.
+- Examined customer segments and regional distribution.
+- Identified significant variations in individual customer purchasing trends.
+
 ## Key Performance Indicators (KPIs)
 
 The dashboard highlights four key performance indicators:
@@ -66,9 +90,9 @@ The dashboard helps identify:
 
 ## Project Files
 
-- **Dataset:** Original Superstore sales dataset.
-- **Dashboard:** Power BI dashboard file (.pbix).
-- **Images:** Dashboard screenshots.
+- **Superstore.csv:** Original Superstore sales dataset used for analysis.
+- **superstore.pbix:** Power BI dashboard file containing the complete interactive reports.
+- **Images/:** Folder containing screenshots of the three dashboard pages.
 
 ## Dashboard Screenshots
 
